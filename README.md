@@ -1,2 +1,1 @@
-# Elites-Of-The-World-
-EOTW Token Listing Submission – Base Chain
+# EOTW Token on Base Mainnet\n\nDeploy the Elites of the World (EOTW) token using Hardhat.
